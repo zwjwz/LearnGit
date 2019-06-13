@@ -1,1 +1,2 @@
 update text2;
+branch2 update text2;
