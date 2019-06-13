@@ -9,3 +9,4 @@ master modify;
 branch2 modify again;
 
 >>>>>>> branch2
+fix issue101
