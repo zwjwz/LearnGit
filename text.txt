@@ -2,4 +2,10 @@ master modify again;
 Hello Git!
 update 1;
 branch 2 update1;
+<<<<<<< HEAD
 master modify;
+=======
+master modify;
+branch2 modify again;
+
+>>>>>>> branch2
